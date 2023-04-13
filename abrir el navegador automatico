@@ -1,0 +1,5 @@
+import webbrowser
+
+url = 'https://www.google.com/' # URL que se abrirá en el navegador
+
+webbrowser.open(url) # Abre el navegador predeterminado con la URL especificada
